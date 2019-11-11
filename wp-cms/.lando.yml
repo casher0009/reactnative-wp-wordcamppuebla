@@ -1,0 +1,6 @@
+name: wp-cms
+recipe: wordpress
+config:
+  webroot: .
+  php: 7.3
+  ngnix: 6
